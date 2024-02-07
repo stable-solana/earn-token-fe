@@ -18,7 +18,10 @@ class MyDocument extends Document {
       <Html>
         <Head>
           {/* TODO */}
-          <link rel="shortcut icon" href="/favicon.ico" />
+          <link
+            rel="shortcut icon"
+            href="https://stable-solana.github.io/earn-token-fe/favicon.ico"
+          />
         </Head>
         <body>
           <Main />
